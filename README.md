@@ -1,0 +1,1 @@
+# Better difficulties for antiquities and lockpicking

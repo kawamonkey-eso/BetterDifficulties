@@ -1,0 +1,5 @@
+## APIVersion: 100033
+## Title: Better Difficulties
+## Author: Kawamonkey
+
+BetterDifficulties.lua
