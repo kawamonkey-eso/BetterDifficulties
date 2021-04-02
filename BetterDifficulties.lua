@@ -14,5 +14,3 @@ EsoStrings[SI_ANTIQUITYDIFFICULTY2] = "2 / 5"
 EsoStrings[SI_ANTIQUITYDIFFICULTY3] = "3 / 5"
 EsoStrings[SI_ANTIQUITYDIFFICULTY4] = "4 / 5"
 EsoStrings[SI_ANTIQUITYDIFFICULTY5] = "5 / 5"
-
-ZO_Antiquity.GetDifficulty = ZO_Antiquity.GetQuality
